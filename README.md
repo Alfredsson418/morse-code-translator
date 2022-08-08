@@ -9,23 +9,23 @@ This python class can both translate a string to morse code but also in reverse
 # Program Structure
 
 The Class is buit with 7 methods
-- getMorse(no parameters)
+- getMorse(no parameters) \n
 Method return the dictionary used in the class
 
-- returnMorse(char)
+- returnMorse(char) \n
 char is the string with the lengh of 1 that you want to convert to morse code
 
-- returnChar(code)
+- returnChar(code) \n
 code the the morse code of one character (string with the lengh of 1) that you want to convert it to
 
-- translateToMorse(sentence)
+- translateToMorse(sentence) \n
 sentence is the sentence you want to convert to morse code, the program will follow the "Morse Code Structure"
 
-- translateToSentence(code)
+- translateToSentence(code) \n
 code is the morse code that you want to convert to a string
 
-- doesCharExist(char)
+- doesCharExist(char) \n
 Checks if the given character exist in the dictionary, returns True if it exists
 
-- doesMorseCodeExist(code)
+- doesMorseCodeExist(code) \n
 Checks if a given (morse) code exists in the dictionary
