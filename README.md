@@ -27,5 +27,5 @@ code is the morse code that you want to convert to a string
 - doesCharExist(char)
 Checks if the given character exist in the dictionary, returns True if it exists
 
-. doesMorseCodeExist(code)
+- doesMorseCodeExist(code)
 Checks if a given (morse) code exists in the dictionary
