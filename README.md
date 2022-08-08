@@ -2,6 +2,7 @@
 This python class can both translate a string to morse code but also in reverse
 
 # Morse Code Structure
+- The program is using Hyphen character (-) as dashes and a Period character (.) as dots
 - There is always (at least) a space after a peice of morse code to indicate a new character 
 - To indicate a new word, the program will use a slash (/)
 - If there are multible spaces between morse code bits in the method "translateToMorse", the program will just ignore them
