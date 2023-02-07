@@ -9,7 +9,7 @@ This python class can both translate a string to morse code but also in reverse
  
 # Program Structure
 
-The Class is buit with 7 methods
+The Class is built with 7 methods
 - getMorse(no parameters)  
 Method return the dictionary used in the class
 
